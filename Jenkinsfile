@@ -1,2 +1,2 @@
-@Library('Shared-lalith@master')_
-mvnbuild()
+@Library('Anil_Assignment_Shared_Lib@master')_
+msPipeline()
